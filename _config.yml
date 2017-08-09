@@ -1,0 +1,27 @@
+# Site settings
+title: Leon Yeh
+email: leonyeh8@gmail.com
+description: > # Writer Theme is a responsive template
+ Looking for adventure
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+enable_retina: true
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  #Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
+  #Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+  Contact : ['Contact', '/contact', 'fa-plane']
+  Business : ['Business', '/category/business', 'fa-user']
+  Travel : ['Travel', '/category/travel', 'fa-user']
+  Vlog : ['Vlog', '/category/vlog', 'fa-user']
+  #Author : ['Author', '/author/leon-yeh', 'fa-user']
+single_footer: '<p>Talk the Walk and Walk the Talk. &copy; 2017 <a href="/">latest posts</a></p>'
+footer_links:
+    About: ['About', '/about']
+    
+
+
+# Build settings
+# markdown: kramdown
