@@ -1,6 +1,6 @@
 ---
 layout: post-sidebar
-date: 2017-05-07 00:00:00
+date: 2016-11-10 00:00:00
 categories:
   - travel
   - business
@@ -10,7 +10,7 @@ author_avatar: leonyeh
 show_avatar: true
 feature_image: /img/post-assets/empty-street.jpg
 read: 5
-show_related_posts: true
+show_related_posts: false
 square_related: recommend-san-fran
 social-message: Great post over at Writer Theme - You dont have to be great to get started
 ---
