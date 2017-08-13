@@ -1,6 +1,6 @@
 ---
 layout: post-sidebar
-date: 2017-04-24 00:00:00
+date: 2017-08-28 00:00:00
 categories:
   - business
   - vlog
@@ -26,11 +26,11 @@ Working in sales and marketing, it share quite a similarity with playing footbal
 
 You can always see the the mindset of the defensive client. It shown on how they are planning for digital marketing campaign. Deep down they don’t believe they can create greater value. You can see the metrics they chose, all about the daily ads campaign instead of looking into the customer life time value. Instead of long term winning activities, they opted to dip their toes in the google ads pay per click etc.
 
-What &nbsp;separate a winning team with a losing team in digital marketing could be as little as the right mindset. &nbsp;As a digital marketer, I teamed up my client to achieve one single objective. The shared objective is measured by profit margin and business growth.
+What  separate a winning team with a losing team in digital marketing could be as little as the right mindset.  As a digital marketer, I teamed up my client to achieve one single objective. The shared objective is measured by profit margin and business growth.
 
-<br>&nbsp;
+<br>
 
-I have worked with many different type of clients. Some of them think marketing is just a cost and trying to do it as little as possible. This is what I called playing defensive. However my ideal client is the one that has the &nbsp;growth mentality. They consider winning never come easy. It is done by hustling and always playing offense. They considered marketing as the necessary investment needed to properly funded and an integral part of their quest of accelerating their growth.
+I have worked with many different type of clients. Some of them think marketing is just a cost and trying to do it as little as possible. This is what I called playing defensive. However my ideal client is the one that has the  growth mentality. They consider winning never come easy. It is done by hustling and always playing offense. They considered marketing as the necessary investment needed to properly funded and an integral part of their quest of accelerating their growth.
 
 Start with A Growth MIND SET
 
@@ -44,4 +44,4 @@ Instead of waiting for others for a better strategy, starts with your own. You w
 
 It’s the mindset of people who continuously acquire new clients, develop new products to market, punch above their division, and who believe “W” isn’t very difficult to make. Because these different beliefs are true to those who hold them, they become their reality.
 
-<br>&nbsp;
+<br>
