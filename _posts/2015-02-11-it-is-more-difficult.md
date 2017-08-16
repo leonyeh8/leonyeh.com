@@ -16,6 +16,6 @@ social-message: Great post over at Writer Theme - You dont have to be great to g
 ---
 
 
-If you always do what you've always done, you'll always get what you've always had. This is suddenly not working
+If you always do what you've always done, you'll always get what you've always had. This is suddenly not working. So make it work
 
 > Want shows up in what you say, expectation shows up in behaviour
