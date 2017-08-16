@@ -18,8 +18,6 @@ social-message: Great post over at Writer Theme - You dont have to be great to g
 
 My phone began beeping repeatedly, on a cold and foggy Monday afternoon during a visit with friends in Spain over the Thanksgiving holiday last year. In rapid-fire succession, I received a series of frantic text messages from a client back in the States. “No orders in the past 10 Hours” one message said. Murphy’s Law — no sales during the busiest online shopping day of the year; their Shopify e-commerce store had stopped accepting orders on Cyber Monday!
 
-Hi my name is Bob.
-
 As an agency that specializes in ecommerce marketing, It wasn’t the first time an e-commerce platform failed me. A few, small issues sometimes happen all at once, preventing visitors from adding things to the cart or checking out. In this scenario, like most others, I quickly resolved the problem by adjusting a couple of settings.
 
 But this situation put me over the edge. Frustrated, I began looking for a solution that would alert me when something was wrong with a client’s store. Things will undoubtedly fail in the future, I figured. But, I needed to prevent future issues from causing lost store revenue and I wanted to be the first to know when a client’s store was having issues.
